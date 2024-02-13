@@ -1,0 +1,38 @@
+<books>
+    <book>
+        <title>The Great Gatsby</title>
+        <author>F. Scott Fitzgerald</author>
+        <published_year>1925</published_year>
+        <price>12.99</price>
+    </book>
+    <book>
+        <title>To Kill a Mockingbird</title>
+        <author>Harper Lee</author>
+        <published_year>1960</published_year>
+        <price>10.50</price>
+    </book>
+    <book>
+        <title>1984</title>
+        <author>George Orwell</author>
+        <published_year>1949</published_year>
+        <price>9.99</price>
+    </book>
+    <book>
+        <title>The Catcher in the Rye</title>
+        <author>J.D. Salinger</author>
+        <published_year>1951</published_year>
+        <price>11.25</price>
+    </book>
+    <book>
+        <title>The Lord of the Rings</title>
+        <author>J.R.R. Tolkien</author>
+        <published_year>1954</published_year>
+        <price>15.00</price>
+    </book>
+    <book>
+        <title>V Master</title>
+        <author>T.kenthitran</author>
+        <published_year>2000</published_year>
+        <price>300</price>
+    </book>
+</books>
